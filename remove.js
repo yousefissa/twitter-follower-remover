@@ -7,8 +7,8 @@ const twitterClient = new Twitter({
     access_token_key: '',
     access_token_secret: ''
 });
-const screenName = '' // fill in with your screenName
-let userIDList = []
+const screenName = ''; // fill in with your screenName
+let userIDList = [];
 
 
 // removes all of your followers by block and unblocking them
